@@ -4,13 +4,16 @@ Let's do some Erlang.
 
 ## Hello, world!
 
+Can't start without a good, old Hello, World!
+
 ### create an Erlang file
 
 > code `my_first.erl`
 
-### open ERlag shell
+### open Erlang shell
 
 > erl
+
 ```shell
 Erlang/OTP 25 [erts-13.1.1] [source] [64-bit] [smp:10:10] [ds:10:10:10] [async-threads:1] [jit] [dtrace]
 
