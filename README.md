@@ -32,3 +32,6 @@ ok
 ```
 
 
+## Tutorials:
+
+- https://learnxinyminutes.com/docs/erlang/
